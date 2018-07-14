@@ -1,3 +1,1 @@
 # bat_dau
-
-tu viet van hoc khoa cong nghe thong tin dai hoc bach khoa da nang,anh em ta la mot gia dinh,mot gia dinh la choi het minh...
